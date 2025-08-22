@@ -1,3 +1,6 @@
 # HelloWorld!
 Primeiro repositório do Curso de Git e GitHub
+
 Repositório criado durante uma aula ao vivo.
+
+Linha adicionada diretamente do site! QUE IMPRESSIONANTE!
